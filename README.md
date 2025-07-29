@@ -38,7 +38,11 @@ The page is hosted online using **GitHub Pages** and connected to a **Telegram b
 Captured data is sent in real-time to a **Telegram bot** using the Telegram Bot API. The bot receives:
 
 👤 Username: example@example.com
+
 🔑 Password: hunter2
+
 🌍 IP: 10.10.x.x
+
 🧠 User-Agent: Mozilla/5.0 (...)
+
 📱 Screen Res: 1366x768
