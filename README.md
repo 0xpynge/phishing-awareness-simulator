@@ -50,6 +50,6 @@ Captured data is sent in real-time to a **Telegram bot** using the Telegram Bot 
 ## 📌 Author
 Rani Kamaleddine
 
-[GitHub Profile](https://github.com/r4n1-exe)
+[GitHub Profile](https://github.com/0xpynge)
 
 [LinkedIn](https://www.linkedin.com/in/rani-kamaleddine)
