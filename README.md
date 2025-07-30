@@ -46,3 +46,10 @@ Captured data is sent in real-time to a **Telegram bot** using the Telegram Bot 
 🧠 User-Agent: Mozilla/5.0 (...)
 
 📱 Screen Res: 1366x768
+
+## 📌 Author
+Rani Kamaleddine
+
+[GitHub Profile](https://github.com/r4n1-exe)
+
+[LinkedIn](https://www.linkedin.com/in/rani-kamaleddine)
