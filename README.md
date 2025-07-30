@@ -7,7 +7,7 @@ The page is hosted online using **GitHub Pages** and connected to a **Telegram b
 ## 🌐 Live Demo
 
 🟢 Visit the live simulation here:  
-[https://r4n1-exe.github.io/phishing-awareness-simulator/phishing-simulator/r4n1.html](https://r4n1-exe.github.io/phishing-awareness-simulator/phishing-simulator/r4n1.html)
+[https://0xpynge.github.io/phishing-awareness-simulator/phishing-simulator/r4n1.html](https://0xpynge.github.io/phishing-awareness-simulator/phishing-simulator/r4n1.html)
 
 > This is a demo and does not lead to any real service.
 
